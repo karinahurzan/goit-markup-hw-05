@@ -468,11 +468,15 @@ address {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.close-icon:hover,
+.close-icon:focus {
+  fill: #fff;
+}
+
 .close-button:hover,
 .close-button:focus {
   background-color: #404bbf;
   border: none;
-  fill: #fff;
 }
 
 .form-header {
