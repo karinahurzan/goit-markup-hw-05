@@ -477,6 +477,7 @@ address {
 .close-button:focus {
   background-color: #404bbf;
   border: none;
+  fill: #ffffff;
 }
 
 .form-header {
@@ -728,7 +729,7 @@ input[type="checkbox"]:checked + .checkbox-label .check {
   gap: 24px;
 }
 
-.footer-label {
+.footer-p {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
