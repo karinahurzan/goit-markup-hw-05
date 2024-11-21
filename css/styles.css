@@ -730,6 +730,7 @@ input[type="checkbox"]:checked + .checkbox-label .check {
   font-weight: 500;
   color: #fff;
   margin-bottom: 16px;
+  letter-spacing: 0.02em;
 }
 
 .footer-input {
