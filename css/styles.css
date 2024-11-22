@@ -754,7 +754,6 @@ input[type="checkbox"]:checked + .checkbox-label .check {
 }
 
 .footer-input::placeholder {
-  padding-left: 16px;
   font-size: 12px;
   line-height: 2;
   font-weight: 400;
